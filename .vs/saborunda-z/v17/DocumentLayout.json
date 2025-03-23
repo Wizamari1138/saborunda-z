@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|c:\\users\\smrr6\\unityproject\\saborunda-z\\assets\\script\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\studentappearancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\studentappearancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\countdowntimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countdowntimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\buttonic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\resultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ButtonManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:50:26.986Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOverManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:46:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:08:30.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ActionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ActionManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ActionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ActionManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:15:17.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScenesManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ScenesManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScenesManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ScenesManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ScenesManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:41:54.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\Teacher.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Teacher.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\Teacher.cs",
+              "RelativeToolTip": "Assets\\Script\\Teacher.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:17:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T00:08:49.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAppearanceManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\StudentAppearanceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StudentAppearanceManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\StudentAppearanceManager.cs",
+              "RelativeToolTip": "Assets\\Script\\StudentAppearanceManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:20:12.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountdownTimer.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\CountdownTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountdownTimer.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\CountdownTimer.cs",
+              "RelativeToolTip": "Assets\\Script\\CountdownTimer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:48:21.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ButtonIC.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ButtonIC.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ButtonIC.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ButtonIC.cs",
+              "RelativeToolTip": "Assets\\Script\\ButtonIC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:50:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultManager.cs",
+              "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ResultManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResultManager.cs",
+              "ToolTip": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ResultManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ResultManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T01:23:21.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
