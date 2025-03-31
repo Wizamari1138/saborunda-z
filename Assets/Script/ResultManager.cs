@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 
+//リザルト表示スクリプト
 public class ResultManager : MonoBehaviour
 {
     public TextMeshProUGUI elapsedTimeText;

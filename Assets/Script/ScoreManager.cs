@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//スコアスクリプト
 public class ScoreManager : MonoBehaviour
 {
     private float highScore;

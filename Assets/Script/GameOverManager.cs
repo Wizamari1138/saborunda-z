@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
+//ゲームオーバー画面スクリプト
 public class GameOverManager : MonoBehaviour
 {
     public GameObject characterObject; //キャラクターオブジェクト参照

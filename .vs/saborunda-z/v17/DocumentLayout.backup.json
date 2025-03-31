@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|c:\\users\\smrr6\\unityproject\\saborunda-z\\assets\\script\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,11 +23,7 @@
       "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|c:\\users\\smrr6\\unityproject\\saborunda-z\\assets\\script\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|C:\\Users\\smrr6\\UnityProject\\saborunda-z\\assets\\script\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71601C93-B625-8602-3CA9-33B3D05430AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ButtonManager.cs",
               "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ButtonManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ButtonManager.cs",
@@ -67,12 +67,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T11:50:26.986Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameOverManager.cs",
@@ -85,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
@@ -93,12 +92,11 @@
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAkwBYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:08:30.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T11:08:30.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ActionManager.cs",
               "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ActionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ActionManager.cs",
@@ -111,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ScenesManager.cs",
               "DocumentMoniker": "C:\\Users\\smrr6\\UnityProject\\saborunda-z\\Assets\\Script\\ScenesManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScenesManager.cs",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "Assets\\Script\\ScenesManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T12:41:54.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T12:41:54.04Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "Assets\\Script\\Teacher.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwBYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:17:20.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T11:17:20.582Z"
             },
             {
               "$type": "Document",
@@ -169,7 +165,8 @@
               "RelativeToolTip": "Assets\\Script\\CountdownTimer.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:48:21.874Z"
+              "WhenOpened": "2025-03-11T10:48:21.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

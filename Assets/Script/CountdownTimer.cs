@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
+//カウントダウンスクリプト
 public class CountdownTimer : MonoBehaviour
 {
     public TextMeshProUGUI countdownText; // カウントダウン表示用のTextMeshPro

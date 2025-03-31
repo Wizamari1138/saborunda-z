@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//生徒の見た目スクリプト
 public class StudentAppearanceManager : MonoBehaviour
 {
     public SpriteRenderer studentSpriteRenderer; // 生徒の見た目を変更するためのスプライトレンダラー

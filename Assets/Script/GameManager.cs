@@ -6,12 +6,12 @@ using TMPro;
 using UnityEngine.SceneManagement;
 using Cysharp.Threading.Tasks;
 
-
+//ゲームマネージャースクリプト
 public class GameManager : MonoBehaviour
 {
     private bool isPaused = true; // 最初は停止状態
 
-    public static bool isGameOverBranch;
+    public static bool isGameOverBranch; //ゲームオーバーの方法を判断するフラグ
 
     public StudentAppearanceManager studentAppearanceManager; // StudentAppearanceManager への参照
     public ScoreManager scoreManager;
@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     public float increaseInterval = 20f; // 減少量が増える間隔（秒）
 
     private float timeSinceLastIncrease = 0f; // 減少量増加用のタイマー
-    private bool isGameOver = false;
+    private bool isGameOver = false;　//ゲームオーバーかどうか
     private float elapsedTime = 0f; // 授業開始からの経過時間
     private bool isSlacking = false; // サボり中かどうか
 

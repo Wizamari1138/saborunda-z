@@ -2,6 +2,7 @@ using Cysharp.Threading.Tasks;
 using System;
 using UnityEngine;
 
+//サボり処理スクリプト
 public class ActionManager : MonoBehaviour
 {
     public GameManager gameManager; // GameManagerへの参照

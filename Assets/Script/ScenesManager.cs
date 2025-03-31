@@ -1,8 +1,9 @@
 using System;
-using Cysharp.Threading.Tasks; // UniTask を使うため
+using Cysharp.Threading.Tasks; 
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//シーン切り替えスクリプト
 public class ScenesManager : MonoBehaviour
 {
     private AudioSource audioSource;  // AudioSource

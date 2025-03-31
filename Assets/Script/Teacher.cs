@@ -5,6 +5,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
+//‹³ŽtƒXƒNƒŠƒvƒg
 public class Teacher : MonoBehaviour
 {
     private bool isSuspicionMode = false; // ‹³Žt‚ª‹^‚Á‚Ä‚¢‚é‚©‚Ç‚¤‚©

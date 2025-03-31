@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//サボり実行スクリプト
 public class ButtonManager : MonoBehaviour
 {
     public ActionManager actionManager;
